@@ -1,0 +1,18 @@
+{
+  "homepage": "",
+  "url": "https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe#ld.7z",
+  "hash":"4985F96235154FC4176E3972F14709F5F10FC0606E5589075A6DA9B6DC7FCCD3",
+  "license": "",
+  "bin": "WeChat.exe",
+  "shortcuts": [
+        [
+            "WeChat.exe",
+            "微信"
+        ]
+    ],
+  "version": "3.9.12.17",
+  "extract_dir": "[3.9.12.17]",
+  "persit": [
+    "WeiChat Files"
+  ]
+}

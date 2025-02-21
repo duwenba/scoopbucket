@@ -1,0 +1,15 @@
+{
+  "homepage": "",
+  "url": "https://dldir1.qq.com/qqfile/qq/QQNT/Windows/QQ_9.9.17_250110_x64_01.exe#ld.7z",
+  "hash":"CF02935BB2A6C245637A3C04F72C002A9957E1EDFE3C912B2A37C32694FEF082",
+  "license": "",
+  "bin": "QQ.exe",
+  "shortcuts": [
+        [
+            "QQ.exe",
+            "QQ"
+        ]
+    ],
+  "version": "9.9.17",
+  "extract_dir": "Files"
+}

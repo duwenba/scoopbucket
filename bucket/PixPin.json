@@ -1,0 +1,15 @@
+{
+    "version":  "1.9.11.8",
+    "license":  "",
+    "extract_dir":  "PixPin",
+    "url":  "https://download.pixpin.cn/PixPin_1.9.11.8.zip",
+    "homepage":  "https://pixpin.cn/",
+    "hash":  "5c7eb2f080dc0974abe0e56211ec63cae81ef0a0042c37a2f375da57ae7bdea7",
+    "bin": "PixPin.exe",
+  "shortcuts": [
+        [
+            "PixPin.exe",
+            "PixPin"
+        ]
+    ]
+}
