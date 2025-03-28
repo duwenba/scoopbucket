@@ -11,4 +11,5 @@
         ]
     ],
   "version": "5.14.1",
+  "persist": ["script"]
 }
